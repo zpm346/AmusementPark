@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+m_EditorVersion: 2017.4.0f1
+>>>>>>> c18aabf2a9ac8e61273273762cd0f6ee11a0fc22
+>>>>>>> 225f65f1e0805aadb0fc11e799163e61fc24cf3a
